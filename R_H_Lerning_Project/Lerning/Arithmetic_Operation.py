@@ -24,4 +24,3 @@ X2 = 10 / 5 ** 3  # Exponentiation (Second 2).
 X3 = 10 + 3 * 10 / 4  # Multiplication, or, Division (Third 3).
 X4 = 10 + 4 - 3  # Addition, or, Subtraction (Fourth 4)
 
-#  good day to you
