@@ -6,3 +6,4 @@ print('hello word')
 X = 10
 Y = 5
 print(Y, X)
+input()
