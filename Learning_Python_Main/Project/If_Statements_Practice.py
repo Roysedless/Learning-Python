@@ -20,8 +20,8 @@ elif is_cold:  # set an else if for cold day
     print("It's a cold day")
     print("wear warm clothes")
 else:  # set an else for nice day (this is the only situation we can get)
-    print("It's a lovely day")
-print('Enjoy your day')  # set a default message that we want to get in all situation.
+    print("It's a lovely day"
+print('Enjoy your day')   # set a default message that we want to get in all situation.
 
 # I make mathematical question with using an if statements
 X = int(input('What is 5 + 5? '))
