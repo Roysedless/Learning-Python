@@ -30,30 +30,13 @@ if lecture_has_good_credit:
     lecture_down_payment = 0.1 * lecture_price
 else:
     lecture_down_payment = 0.2 * lecture_price
-print(f'down payment: {lecture_down_payment}')
+print(f'down payment: ${lecture_down_payment}')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# I make mathematical question with using an if statements
+# *I make mathematical question with using an if statements*
 solution = int(input('What is 5 + 5? '))
 if solution == 10:
     print('You Right')
-elif 10 > solution > 7 or 13 > X > 10:
+elif 10 > solution > 7 or 13 > solution > 10:
     print('You Wrong')
 else:
     print('You So Wrong')
