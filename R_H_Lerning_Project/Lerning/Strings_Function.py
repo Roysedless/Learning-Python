@@ -1,14 +1,14 @@
 # String Function (5)
-# String Character (Function)
-# ^^ is a way to make defined word (character) on a string.
+# ^ String Character (Function)
+# ^^ Is a way to make defined word (character) on a string.
 course_character = 'python for beginners'
 print(course_character[0])  # using square brackets to get a character that give us an index in the string.
-print(course_character[-1])  # example: to use a negative value of a character.
-print(course_character[0:3])  # example: sum of range of character.
-print(course_character[0:])  # example: if you don't put an end value, python automatic select the maximum value.
-print(course_character[:6])  # example: if you don't put an start value, python automatic select the minimum value.
-# Formatted String (Function)
-# ^^ is a way to mixed string in a complex manner in different a context.
+print(course_character[-1])  # negative value of a character, to get the opposite direction.
+print(course_character[0:3])  # sum of range of character.
+print(course_character[0:])  # if you don't put an end value, python automatic select the maximum value.
+print(course_character[:6])  # if you don't put an start value, python automatic select the minimum value.
+# ^ Formatted String (Function)
+# ^^ Is a way to mixed string in a complex manner in different a context.
 first = 'John'
 last = 'Smith'
 massage = first + ' [' + last + '] is a coder'  # the hard way and not ideal [string concatenation].

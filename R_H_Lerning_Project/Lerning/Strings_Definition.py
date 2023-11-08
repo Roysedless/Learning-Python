@@ -1,5 +1,5 @@
 # Strings Definition Learning (4)
-# ^^ is a way to identified word.
+# ^^ String is a way to identified word.
 course = 'python for beginners'  # we can use a single quotes
 course_ = "python's course for beginners"  # to use a single quotes in between we mast use a double quotes
 course__ = 'python for "Beginners"'  # to use a double quotes in between we mast use a single quote
