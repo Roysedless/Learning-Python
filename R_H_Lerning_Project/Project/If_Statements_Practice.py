@@ -1,5 +1,5 @@
 # If Statements Practice (7)
-# exercise of If Statements >>
+# exercise: of If Statements >>
 # ^^ price of a house is 1M.
 #       if buyer has good credit,
 #          they need to put down 10%
