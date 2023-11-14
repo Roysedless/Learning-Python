@@ -7,19 +7,19 @@ weight = input("Weight ? ")
 unit = input("(L)bs or (K)g ? ")
 
 if unit.upper() == 'K':
-    print(f'your weight is >> {int(weight) * 0.45} Kilos')
+    print(f'your weight is >> {float(weight) / 0.45} Pounds')
 elif unit.upper() == 'L':
-    print(f'yor weight is >> {int(weight) / 0.45} Pounds')
+    print(f'yor weight is >> {float(weight) * 0.45} Kilos')
 else:
     print("you don't enter the correct unit")
 
 # The Instruction Solution
-weight1 = int(input("Weight ? "))
+weight1 = float(input("Weight ? "))
 unit1 = input("(L)bs or (K)g ? ")
 
 if unit1.upper() == 'K':
-    converted = weight1 * 0.45
-    print(f'you are {converted} kilos')
-elif unit1.upper() == 'L':
     converted = weight1 / 0.45
     print(f'you are {converted} pounds')
+elif unit1.upper() == 'L':
+    converted = weight1 * 0.45
+    print(f'you are {converted} kilos')
