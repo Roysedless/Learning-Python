@@ -1,7 +1,7 @@
 # Arithmetic Operation (6)
 # ^^ we have a different selection for Arithmetic Operation in python like this >>
 print(10 + 3)  # Addition Operation.
-print(10 + 3)  # Subtraction Operation.
+print(10 - 3)  # Subtraction Operation.
 print(10 * 3)  # Multiplication Operation.
 print(10 / 3)  # Standard Division Operation (we can get a float number).
 print(10 // 3)  # Other Division Operation (we get an integer number).
