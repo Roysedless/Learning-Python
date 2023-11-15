@@ -23,7 +23,7 @@ if has_high_income1 or has_good_credit1:
 # NOT Logical Operators (it's inverses any boolean value we give it)
 # >> adding:
 #     > if applicant has good credit and doesn't have a criminal record.
-has_good_credit2= True
+has_good_credit2 = True
 has_criminal_record = False
 
 if has_good_credit2 and not has_criminal_record:

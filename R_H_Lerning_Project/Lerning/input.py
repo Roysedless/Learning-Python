@@ -4,3 +4,5 @@
 input()  # only input function.
 input('What is your name? ')  # input function + print function.
 name = input('What is your name? ')  # put an input function to a variables.
+# converting string to integer with using input
+int(input("text ? "))
