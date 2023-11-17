@@ -1,8 +1,8 @@
-# Building a Car Game
+# Car Game
 # ^^ Making a Car Game using all we learn so far
 
 # my solution
-# print('(: Typ an help to see info (:')
+# print('(: Typ a help to see info (:')
 # while True:
 #     command = input('> ')
 #     if command.upper() == 'HELP':
@@ -54,7 +54,7 @@
 #         break
 #     else:
 #         print('''
-# Sorry, your typ must be include in the available options );
+# Sorry, your typ must be included in the available options );
 # please try again >>
 #         ''')
 
@@ -87,6 +87,6 @@ QUIT - to exit
         break
     else:
         print('''
-Sorry, your typ must be include in the available options );
+Sorry, your typ must be included in the available options );
 please try again >>
         ''')

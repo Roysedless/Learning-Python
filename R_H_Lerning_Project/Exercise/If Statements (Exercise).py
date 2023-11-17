@@ -7,22 +7,22 @@
 #          they need to put down 20%
 #    print the down payment
 # My solution >>
-my_house_price = 1000000
-my_buyer_good_credit = True
-if my_buyer_good_credit:
-    my_house_price = 0.1 * 1000000
-if not my_buyer_good_credit:
-    my_house_price = 0.2 * 1000000
-print(my_house_price)
+# my_house_price = 1000000
+# my_buyer_good_credit = True
+# if my_buyer_good_credit:
+#     my_house_price = 0.1 * 1000000
+# if not my_buyer_good_credit:
+#     my_house_price = 0.2 * 1000000
+# print(my_house_price)
 
 # Dana Yaniv solution >>
-dana_house_price = 1000000 * (10 / 100)
-dana_buyer_good_credit = False
-if not dana_buyer_good_credit:
-    dana_house_price = 1000000 * (20 / 100)
-print(dana_house_price)
+# dana_house_price = 1000000 * (10 / 100)
+# dana_buyer_good_credit = False
+# if not dana_buyer_good_credit:
+#     dana_house_price = 1000000 * (20 / 100)
+# print(dana_house_price)
 
-# Lecture solution >>
+# Mosh solution >>
 lecture_price = 1000000
 lecture_has_good_credit = True
 

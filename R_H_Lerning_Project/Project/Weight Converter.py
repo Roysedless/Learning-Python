@@ -1,5 +1,5 @@
 # Weight Converter
-# ^^ First Project (1)
+# ^^ First Exercise (1)
 # ^ include all we learn until new.
 
 # My Solution
@@ -13,7 +13,7 @@ elif unit.upper() == 'L':
 else:
     print("you don't enter the correct unit")
 
-# The Instruction Solution
+# mosh Solution
 weight1 = float(input("Weight ? "))
 unit1 = input("(L)bs or (K)g ? ")
 

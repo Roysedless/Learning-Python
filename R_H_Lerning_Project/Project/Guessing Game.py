@@ -1,4 +1,4 @@
-# Building a Guessing Game (Project)
+# Building a Guessing Game
 # ^^ Making a Guessing Game using a while loop
 
 import random  # import random for using his function
